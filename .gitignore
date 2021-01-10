@@ -135,3 +135,6 @@ config.py
 API_Practice.ipynb
 random_numbers.ipynb
 Google_Nearby_Search.ipynb
+
+# Mac OS
+.DS_Store
