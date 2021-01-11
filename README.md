@@ -23,6 +23,6 @@ to generate an interactive map with markers showing current weather information 
 [Vacation_Itinerary.ipynb](Vacation_Itinerary/Vacation_Itinerary.ipynb) reads the [WeatherPy_vacation.csv](Vacation_Search/WeatherPy_vacation.csv)
 file and creates a travel itinerary map with driving routes between four user-specified cities in this dataset using 
 [`gmaps directions layer`](https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html#directions-layer). It then includes the corresponding
-interactive map with markers for the hotel in each cit. An example route between the Turkish cities of Talas, Silop, Fethiye, and Bayir is
+interactive map with markers for the hotel in each city. An example route between the Turkish cities of Talas, Silop, Fethiye, and Bayir is
 shown in [WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png) along with its coresponding interactive map with weather information in
 [WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
