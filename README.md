@@ -5,7 +5,7 @@ using OpenWeatherMap and Google Maps APIs.
 ## Weather_Database
 [Weather_Database.ipynb](Weather_Database/Weather_Database.ipynb) generates the dataset of cities and weather information used for the
 vacation search and route planning of this module. The notebook generates 2000 random coordinates from which the nearest city to each
-is found using [`citipy`](https://github.com/wingchen/citipy). We then use the [`OpenWeatherMap`](https://openweathermap.org/current)
+is found using [`citipy`](https://github.com/wingchen/citipy). It then uses the [`OpenWeatherMap`](https://openweathermap.org/current)
 current weather data API to obtain the current weather for each city and add the results to the database found in [WeatherPy_Database.csv](Weather_Database/WeatherPy_Database.csv).
 
 ## Vacation_Search
