@@ -18,7 +18,7 @@ to return the first hotel found within 5000 m of each city. Finally, we write th
 [WeatherPy_vacation.csv](Vacation_Search/WeatherPy_vacation.csv) and use [`gmaps`](https://jupyter-gmaps.readthedocs.io/en/latest/tutorial.html)
 to generate an interactive map with markers showing current weather information for each returned hotel. An example of this interactive map is shown in
 [WeatherPy_vacation_map.png](Vacation_Search/WeatherPy_vacation_map.png) which includes hotels nearest to cities whose maximum temperature is between
-40 and 85 degrees F.
+40 and 85 &deg;F.
 
 ## Vacation_Itinerary
 [Vacation_Itinerary.ipynb](Vacation_Itinerary/Vacation_Itinerary.ipynb) reads the previously generated
